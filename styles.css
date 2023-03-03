@@ -1,5 +1,4 @@
-import "./styles.css"
-box {
+.box {
     background-color: #e6f9ff;
     width: 700px;
     border: 15px solid #007399;
@@ -41,12 +40,4 @@ p {
 .temp {
     color: #004d66;
     font-family: "Fira Sans", sans-serif;
-}
-
-box {
-    background-color: #e6f9ff;
-    width: 700px;
-    border: 15px solid #007399;
-    padding: 50px;
-    margin: 20px;
 }
