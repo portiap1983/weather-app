@@ -1,4 +1,3 @@
-import "./styles.css";
 
 let now = new Date();
 
