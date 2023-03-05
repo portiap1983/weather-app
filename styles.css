@@ -41,3 +41,10 @@ p {
     color: #004d66;
     font-family: "Fira Sans", sans-serif;
 }
+
+.code {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+    font-size: 8px;
+    text-align: center;
+}
